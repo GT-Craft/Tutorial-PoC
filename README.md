@@ -18,7 +18,7 @@ $ sudo apt-get install unityhub
 ```
 - Then, visit [the Unity archive](https://unity.com/releases/editor/archive) and install Unity 2020.03.
 
-<img src="https://github.com/GT-Craft/PoC_MMSys24/blob/main/Figure/unity.jpg">
+<img src="https://github.com/GT-Craft/PoC_MMSys24/blob/main/Figure/unity.jpg" style="width:400px">
 
 
 ## Map Streaming and Semantic Segmentation
