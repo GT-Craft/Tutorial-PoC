@@ -69,3 +69,14 @@ $ git clone git@github.com:GT-Craft/VirtualSceneGeneration.git
 ```
 
 #### 3.2. Open the project in Unity Hub and the PoC scene
+After cloning the repository, you need to add it on Unity Hub with Unity 2020.
+
+<img src="https://github.com/GT-Craft/PoC_MMSys24/blob/main/Figure/importproject.jpg" style="width:400px">
+
+When starting the project, there is a PoC scene under `Assets/Scenes`. Open and run it.
+
+<img src="https://github.com/GT-Craft/PoC_MMSys24/blob/main/Figure/runscene.jpg" style="width:400px">
+
+## 4. USD Export and Import
+After running the scene, when pressing 'r' key, it exports the scene in a USD file, and it can take some time.
+As we attached the USD file of that scene in this repo, `GeneratedScene.usd`, you can open it in other USD-supporting software such as [Blender](https://www.blender.org/).
