@@ -1,4 +1,4 @@
-# PoC_MMSys24
+# Tutorial PoC: GT-Craft
 
 This PoC is based on Ubuntu 22.04, The machine is supposed to have x86-based CPU and NVIDIA GPU (optional).
 
